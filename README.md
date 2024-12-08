@@ -2,7 +2,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/naufalsutrisna/Abstract-Similarity-Chatbot.git
 
 # 2. Navigate to the deploy directory
 cd deploy
